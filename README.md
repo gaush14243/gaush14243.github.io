@@ -1,3 +1,3 @@
-# Your blog
+# Blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Playing around with things is the best way of learning them. Thats how we are gonna learn AI.
